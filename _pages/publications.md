@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find these on <u><a href="https://scholar.google.ca/citations?user=o00Z6d0AAAAJ&hl=en&oi=ao">Google Scholar</a>.</u>.
+You can also find these on <a href="https://scholar.google.ca/citations?user=o00Z6d0AAAAJ&hl=en&oi=ao">Google Scholar</a>.
 
 <small><em>* co-first author, <sup>†</sup> (co-)corresponding author</em></small>
 
