@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 
-My broad set of research interests center around the application of bio- and cheminformatic methods to biomedical research. If you're interested in working together or have questions about my research, I'm usually pretty responsive to [email](mailto:michaelskinnider@gmail.com).
+My broad set of research interests center around the application of bio- and cheminformatic methods to biomedical research. If you're interested in working together or have questions about my research, send me an [email](mailto:michaelskinnider@gmail.com).
 
 **Context-specific biological networks**: My PhD thesis focuses on the application of protein correlation profiling to investigate how the cellular protein-protein interaction network is rewired in biologically relevant contexts. I’ve developed computational methods for network inference from complex proteomic datasets, and applied these to experimental data to map the protein-protein interaction network across mouse tissues or in response to specific cellular stimuli, such as type I interferon. I also have an interest in using bulk and single-cell transcriptomics to infer context-specific biological networks from high-throughput sequencing data. 
 
