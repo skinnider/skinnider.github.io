@@ -13,13 +13,13 @@ You can also find these on <u><a href="https://scholar.google.ca/citations?user=
 
 <ol class="publications" reversed start="22">
 
-    <li><u>Skinnider, M.A.</u>†, Squair, J.W., Foster, L.J.†. &ldquo;Evaluating measures of association for single-cell transcriptomics.&ldquo; _Nature Methods_, **16**, 381--386 (2019). <a href="/files/Nat Meth 2019 - Evaluating measures of association for single-cell transcriptomics.pdf">[pdf]</a> </li>
+    <li><u>Skinnider, M.A.</u>†, Squair, J.W., Foster, L.J.†. &ldquo;Evaluating measures of association for single-cell transcriptomics.&rdquo; <em>Nature Methods</em>, <strong>16</strong>, 381--386 (2019). <a href="/files/Nat Meth 2019 - Evaluating measures of association for single-cell transcriptomics.pdf">[pdf]</a> </li>
 
 </ol>
 
 ** 2018 **
 
-<ol class="publications" reversed start="17">
+<ol class="publications" reversed start="21">
 
     <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Chik, J.H.L., Foster, L.J. &ldquo;Conditional interactions in literature-curated protein interaction databases.&rdquo; _BMC Genomics_, **19**, 758 (2018). </li>
 
@@ -35,7 +35,7 @@ You can also find these on <u><a href="https://scholar.google.ca/citations?user=
 
 ** 2017 **
 
-<ol class="publications" reversed start="10">
+<ol class="publications" reversed start="16">
 
     <li>Stacey, R.G., Skinnider, M.A., Scott, N.E., Foster, L.J. &ldquo;A rapid and accurate approach for prediction of interactomes from co-elution data (PrInCE).&rdquo; _BMC Bioinformatics_, **18**, 457 (2017). </li>
 
@@ -55,7 +55,7 @@ You can also find these on <u><a href="https://scholar.google.ca/citations?user=
 
 ** 2016 **
 
-<ol class="publications" reversed start="6">
+<ol class="publications" reversed start="9">
 
     <li><u>Skinnider, M.A.</u>*, Johnston, C.W.*, Edgar, R.E., Dejong, C.A., Merwin, N.J., Rees, P.N., Magarvey, N.A. &ldquo;Genomic charting of ribosomally synthesized natural product chemical space facilitates targeted mining.&rdquo; _Proceedings of the National Academy of Sciences of the USA_, **113**, E6343--E6351 (2016). </li>
 
