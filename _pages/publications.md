@@ -7,13 +7,13 @@ author_profile: true
 
 You can also find these on <u><a href="https://scholar.google.ca/citations?user=o00Z6d0AAAAJ&hl=en&oi=ao">Google Scholar</a>.</u>.
 
-<small><em>* co-first author, † (co-)corresponding author</em></small>
+<small><em>* co-first author, <sup>†</sup> (co-)corresponding author</em></small>
 
 **2019**
 
 <ol class="publications" reversed start="22">
 
-    <li><u>Skinnider, M.A.</u>†, Squair, J.W., Foster, L.J.†. &ldquo;Evaluating measures of association for single-cell transcriptomics.&rdquo; <em>Nature Methods</em>, <strong>16</strong>, 381&ndash;386 (2019). <a href="/files/Nat Meth 2019 - Evaluating measures of association for single-cell transcriptomics.pdf">[pdf]</a> </li>
+    <li><u>Skinnider, M.A.</u><sup>†</sup>, Squair, J.W., Foster, L.J.<sup>†</sup>. &ldquo;Evaluating measures of association for single-cell transcriptomics.&rdquo; <em>Nature Methods</em>, <strong>16</strong>, 381&ndash;386 (2019). <a href="/files/Nat Meth 2019 - Evaluating measures of association for single-cell transcriptomics.pdf">[pdf]</a> </li>
 
 </ol>
 
@@ -25,7 +25,7 @@ You can also find these on <u><a href="https://scholar.google.ca/citations?user=
 
     <li><u>Skinnider, M.A.</u>, Stacey, R.G., Foster, L.J. &ldquo;Genomic data integration systematically biases interactome mapping.&rdquo; <em>PLoS Computational Biology</em>, <strong>14</strong>, e1006474 (2018). <a href="/files/PLoS Comp Biol 2018 - Genomic data integration systematically biases interactome mapping.pdf">[pdf]</a> </li>
 
-    <li>Squair, J.W.*, Tigchelaar, S., Moon, K.M., Liu, J., Tetzlaff, W., Kwon, B.K., Krassioukov, A.V., West, C.R., Foster, L.J., <u>Skinnider, M.A.</u>*†. &ldquo;Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury.&rdquo; <em>eLife</em>, <strong>7</strong>, e39188 (2018). <a href="/files/eLife 2018 - Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury.pdf">[pdf]</a> </li>
+    <li>Squair, J.W.*, Tigchelaar, S., Moon, K.M., Liu, J., Tetzlaff, W., Kwon, B.K., Krassioukov, A.V., West, C.R., Foster, L.J., <u>Skinnider, M.A.</u>*<sup>†</sup>. &ldquo;Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury.&rdquo; <em>eLife</em>, <strong>7</strong>, e39188 (2018). <a href="/files/eLife 2018 - Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury.pdf">[pdf]</a> </li>
 
     <li><u>Skinnider, M.A.</u>, Twa, D.D.W., Squair, J.W., Rosenblum, N.D., Lukac, C.D. &ldquo;Predictors of sustained research involvement among Canadian MD/PhD program graduates.&rdquo; <em>Medical Education</em>, <strong>52</strong>, 536&ndash;545 (2018). <a href="/files/Med Educ 2018 - Predictors of sustained research involvement among MD/PhD programme graduates.pdf">[pdf]</a> </li>
 
