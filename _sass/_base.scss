@@ -313,16 +313,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
-
-
-
-
-/* custom list numbering */
-
-ol.publications > li::before {
-    content: "[" counter(list) "] ";
-    display: table-cell;
-    padding-right: 5px;
-    text-align: left;
-    counter-increment: list;
-}
