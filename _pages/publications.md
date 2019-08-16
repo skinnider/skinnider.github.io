@@ -37,7 +37,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="16">
 
-    <li>Stacey, R.G., Skinnider, M.A., Scott, N.E., Foster, L.J. &ldquo;A rapid and accurate approach for prediction of interactomes from co-elution data (PrInCE).&rdquo; <em>BMC Bioinformatics</em>, <strong>18</strong>, 457 (2017). <a href="/files/BMC Bioinformatics 2017 - A rapid and accurate approach for prediction of interactomes from co-elution data (PrInCE).pdf">[pdf]</a> </li>
+    <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Scott, N.E., Foster, L.J. &ldquo;A rapid and accurate approach for prediction of interactomes from co-elution data (PrInCE).&rdquo; <em>BMC Bioinformatics</em>, <strong>18</strong>, 457 (2017). <a href="/files/BMC Bioinformatics 2017 - A rapid and accurate approach for prediction of interactomes from co-elution data (PrInCE).pdf">[pdf]</a> </li>
 
     <li>Twa, D.D.W., <u>Skinnider, M.A.</u>, Squair, J.W., Lukac, C.D. &ldquo;Cross-sectional-derived determinants of satisfaction with physician-scientist training among Canadian MD/PhD graduates. <em>PLoS ONE</em>, <strong>12</strong>, e0185218 (2017). <a href="/files/PLoS ONE 2017 - Cross-sectional-derived determinants of satisfaction with physician-scientist training among Canadian MD/PhD graduates.pdf">[pdf]</a> </li>
 
@@ -61,7 +61,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
     <li>Dejong, C.A.*, Chen, G.M.*, Li, H.*, Johnston, C.W., Edwards, M., Rees, P.N., <u>Skinnider, M.A.</u>, Webster, A.L.H., Magarvey, N.A. &ldquo;Retrobiosynthesis of polyketide and nonribosomal peptide natural product chemistry and global alignment to biosynthetic clusters.&rdquo; <em>Nature Chemical Biology</em>, <strong>12</strong>, 1007&ndash;1014 (2016). <a href="/files/Nat Chem Biol 2016 - Polyketide and nonribosomal peptide retrobiosynthesis and global gene cluster matching.pdf">[pdf]</a> </li>
 
-    <li>Johnston, C.W., Skinnider, M.A., Dejong, C.A., Rees, P.N., Chen, G.M., Walker, C., French, S., Brown, E.D., Bérdy, J., Liu, D.Y., Magarvey, N.A. &ldquo;Assembly and clustering of natural antibiotics guides target identification.&rdquo; <em>Nature Chemical Biology</em>, 12, 233&ndash;239 (2016). <a href="/files/Nat Chem Biol 2016 - Assembly and clustering of natural antibiotics guides target identification.pdf">[pdf]</a> </li>
+    <li>Johnston, C.W., <u>Skinnider, M.A.</u>, Dejong, C.A., Rees, P.N., Chen, G.M., Walker, C., French, S., Brown, E.D., Bérdy, J., Liu, D.Y., Magarvey, N.A. &ldquo;Assembly and clustering of natural antibiotics guides target identification.&rdquo; <em>Nature Chemical Biology</em>, 12, 233&ndash;239 (2016). <a href="/files/Nat Chem Biol 2016 - Assembly and clustering of natural antibiotics guides target identification.pdf">[pdf]</a> </li>
 
     <li>Johnston, C.W., Connaty, A.D., <u>Skinnider, M.A.</u>, Li, Y.C., Grunwald, A., Wyatt, M.A., Kerr, R.G., Magarvey, N.A. &ldquo;Informatic search strategies to discover analogues and variants of natural product archetypes.&rdquo; <em>Journal of Industrial Microbiology and Biotechnology</em>, <strong>43</strong>, 293&ndash;298 (2016). <a href="/files/JIMB 2015 - Informatic search strategies to discover analogues and variants of natural product archetypes.pdf">[pdf]</a> </li>
 
