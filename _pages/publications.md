@@ -9,6 +9,16 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <small><em>* co-first author, <sup>†</sup> (co-)corresponding author</em></small>
 
+**preprints**
+
+
+<ol class="publications" reversed start="23">
+
+    <li><u>Skinnider, M.A.</u>*, Scott, N.E., Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/351247v1">10.1101/351247</a> </li>
+
+</ol>
+
+
 **2019**
 
 <ol class="publications" reversed start="22">
