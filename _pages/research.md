@@ -1,9 +1,8 @@
 ---
+layout: archive
 title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 My broad set of research interests center around the application of bio- and cheminformatic methods to biomedical research. If you're interested in working together or have questions about my research, send me an [email](mailto:michaelskinnider@gmail.com).
