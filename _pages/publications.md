@@ -12,7 +12,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 **preprints**
 
 
-<ol class="publications" reversed start="24">
+<ol class="publications" reversed start="25">
 
     <li>Kerr, C.H.*, <u>Skinnider, M.A.</u>*, Madero, A.M., Andrews, D.D.T., Stacey, R.G., Chan, Q.W.T., Stoynov, N., Jan, E., Foster, L.J. &ldquo;Dynamic rewiring of the human interactome by interferon signalling&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/766808v1">10.1101/766808</a>. </li>
 
@@ -23,7 +23,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2019**
 
-<ol class="publications" reversed start="22">
+<ol class="publications" reversed start="23">
+
+    <li>Merwin, N.J.*, Mousa, W.K.*, Dejong, C.A., <u>Skinnider, M.A.</u>, Cannon, M.J., Li, H., Dial, K., Gunabalasingam, M., Johnston, C.W., Magarvey, N.A. &ldquo;DeepRiPP integrates multi-omics data to automate discovery of novel ribosomally synthesized natural products.&rdquo; <em>Proceedings of the National Academy of Sciences of the USA</em>, in press.</li>
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Squair, J.W., Foster, L.J.<sup>†</sup>. &ldquo;Evaluating measures of association for single-cell transcriptomics.&rdquo; <em>Nature Methods</em>, <strong>16</strong>, 381&ndash;386 (2019). <a href="/files/Nat Meth 2019 - Evaluating measures of association for single-cell transcriptomics.pdf">[pdf]</a> </li>
 
