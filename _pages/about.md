@@ -11,4 +11,4 @@ I'm an [MD/PhD student](http://mdprogram.med.ubc.ca/mdphd/) at the University of
 
 Previously, I completed a [Bachelors of Arts & Science](https://artsci.mcmaster.ca) from McMaster University. My undergraduate research, with [Nathan Magarvey](https://chemistry.mcmaster.ca/component/comprofiler/userprofile/magarv.html), focused on computational methods for natural product discovery. 
 
-When I'm not in the lab, I'm probably hiking, with my [wife](https://www.rbs.ca/members/jessie-lu/) and our dog. 
+When I'm not in the lab, I'm probably hiking, with my [wife](https://www.rbs.ca/members/jessie-lu/) and our [dog](https://www.instagram.com/cooghyies/). 
