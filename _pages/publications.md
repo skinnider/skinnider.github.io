@@ -14,7 +14,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="26">
 
-    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W., Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G. &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2019.12.20.884916v1">10.1101/2019.12.20.884916</a>. </li>
+    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2019.12.20.884916v1">10.1101/2019.12.20.884916</a>. </li>
 
     <li>Kerr, C.H.*, <u>Skinnider, M.A.</u>*, Madero, A.M., Andrews, D.D.T., Stacey, R.G., Chan, Q.W.T., Stoynov, N., Jan, E., Foster, L.J. &ldquo;Dynamic rewiring of the human interactome by interferon signalling&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/766808v1">10.1101/766808</a>. </li>
 
