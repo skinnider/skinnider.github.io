@@ -9,8 +9,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <small><em>* co-first author, <sup>†</sup> corresponding author</em></small>
 
-**preprints**
-
+**Preprints**
 
 <ol class="publications" reversed start="26">
 
