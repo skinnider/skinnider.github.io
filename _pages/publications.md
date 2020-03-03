@@ -21,12 +21,17 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 </ol>
 
-
-**2019**
+**2020**
 
 <ol class="publications" reversed start="23">
 
-    <li>Merwin, N.J.*, Mousa, W.K.*, Dejong, C.A., <u>Skinnider, M.A.</u>, Cannon, M.J., Li, H., Dial, K., Gunabalasingam, M., Johnston, C.W., Magarvey, N.A. &ldquo;DeepRiPP integrates multi-omics data to automate discovery of novel ribosomally synthesized natural products.&rdquo; <em>Proceedings of the National Academy of Sciences of the USA</em>, doi: <a href="https://dx.doi.org/10.1073/pnas.1901493116">10.1073/pnas.1901493116</a>.  <a href="/files/PNAS 2019 - DeepRiPP integrates multiomics data to automate discovery of novel ribosomally synthesized natural products.pdf">[pdf]</a> </li>
+    <li>Merwin, N.J.*, Mousa, W.K.*, Dejong, C.A., <u>Skinnider, M.A.</u>, Cannon, M.J., Li, H., Dial, K., Gunabalasingam, M., Johnston, C.W., Magarvey, N.A. &ldquo;DeepRiPP integrates multi-omics data to automate discovery of novel ribosomally synthesized natural products.&rdquo; <em>Proceedings of the National Academy of Sciences of the USA</em>, <strong>117</strong>, 371&ndash;380 (2020). <a href="/files/PNAS 2019 - DeepRiPP integrates multiomics data to automate discovery of novel ribosomally synthesized natural products.pdf">[pdf]</a> </li>
+
+</ol>
+
+**2019**
+
+<ol class="publications" reversed start="22">
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Squair, J.W., Foster, L.J.<sup>†</sup> &ldquo;Evaluating measures of association for single-cell transcriptomics.&rdquo; <em>Nature Methods</em>, <strong>16</strong>, 381&ndash;386 (2019). <a href="/files/Nat Meth 2019 - Evaluating measures of association for single-cell transcriptomics.pdf">[pdf]</a> </li>
 
