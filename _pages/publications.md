@@ -13,19 +13,17 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="26">
 
-    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2019.12.20.884916v1">10.1101/2019.12.20.884916</a>. </li>
-
     <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/351247v1">10.1101/351247</a>. </li>
 
 </ol>
 
 **2020**
 
-<ol class="publications" reversed start="24">
+<ol class="publications" reversed start="25">
+
+    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>,  doi: 10.1038/s41587-020-0605-1 <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a>. </li>
 
     <li>Kerr, C.H.*, <u>Skinnider, M.A.</u>*, Andrews, D.D.T., Madero, A.M., Chan, Q.W.T., Stacey, R.G., Stoynov, N., Jan, E., Foster, L.J. &ldquo;Dynamic rewiring of the human interactome by interferon signalling.&rdquo; <em>Genome Biology</em>, <strong>21</strong>, 140 (2020). <a href="/files/Genome Biol 2020 - Dynamic rewiring of the human interactome by interferon signaling.pdf">[pdf]</a> </li>
-
-
 
     <li>Merwin, N.J.*, Mousa, W.K.*, Dejong, C.A., <u>Skinnider, M.A.</u>, Cannon, M.J., Li, H., Dial, K., Gunabalasingam, M., Johnston, C.W., Magarvey, N.A. &ldquo;DeepRiPP integrates multi-omics data to automate discovery of novel ribosomally synthesized natural products.&rdquo; <em>Proceedings of the National Academy of Sciences of the USA</em>, <strong>117</strong>, 371&ndash;380 (2020). <a href="/files/PNAS 2019 - DeepRiPP integrates multiomics data to automate discovery of novel ribosomally synthesized natural products.pdf">[pdf]</a> </li>
 
