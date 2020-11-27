@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **Preprints**
 
-<ol class="publications" reversed start="26">
+<ol class="publications" reversed start="28">
 
     <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/351247v1">10.1101/351247</a>. </li>
 
@@ -19,9 +19,13 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2020**
 
-<ol class="publications" reversed start="25">
+<ol class="publications" reversed start="27">
 
-    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>,  doi: 10.1038/s41587-020-0605-1 <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a>. </li>
+    <li><u>Skinnider, M.A.</u><sup>†</sup>, Johnston, C.W., Gunabalasingam, M., Merwin, N.J., Kieliszek, A.M., MacLellan, R.J., Li, H., Ranieri, M.R.M., Webster, A.L.H., Cao, M.P.T., Pfeifle, A., Spencer, N., To, Q.H., Wallace, D.P., Dejong, C.A.<sup>†</sup>, Magarvey, N.A. &ldquo;Comprehensive prediction of secondary metabolite structure and biological activity from microbial genome sequences.&rdquo; <em>Nature Communications</em>, <strong>11</strong>, 6058 (2020). <a href="/files/Nat Commun 2020 - Comprehensive prediction of secondary metabolite structure and biological activity from microbial genome sequences">[pdf]</a> </li>
+
+    <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;On the robustness of graph-based clustering to random network alterations.&rdquo; <em>Molecular & Cellular Proteomics</em>, doi: 10.1074/mcp.RA120.002275 <a href="/files/MCP 2020 - On the robustness of graph-based clustering to random network alterations.pdf">[pdf]</a>. </li>
+
+    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>,  doi: 10.1038/s41587-020-0605-1. <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a> </li>
 
     <li>Kerr, C.H.*, <u>Skinnider, M.A.</u>*, Andrews, D.D.T., Madero, A.M., Chan, Q.W.T., Stacey, R.G., Stoynov, N., Jan, E., Foster, L.J. &ldquo;Dynamic rewiring of the human interactome by interferon signalling.&rdquo; <em>Genome Biology</em>, <strong>21</strong>, 140 (2020). <a href="/files/Genome Biol 2020 - Dynamic rewiring of the human interactome by interferon signaling.pdf">[pdf]</a> </li>
 
