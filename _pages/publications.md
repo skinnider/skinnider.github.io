@@ -11,7 +11,11 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **Preprints**
 
-<ol class="publications" reversed start="29">
+<ol class="publications" reversed start="31">
+
+    <li><u>Skinnider, M.A.</u>, Rogalski, J., Tigchelaar, S., Manouchehri, N., Prudova, A., Jackson, A.M., Nielsen, K., Jeong, J., Chaudhary, S., Shortt, K., Gallagher-Kurtzke, Y., So, K., Fong, A., Gupta, R., Okon, E.B., Rizzuto, M.A., Dong, K., Streijger, F., Belanger, L., Ritchie, L., Tsang, A., Christie, S., Mac-Thiong, J.-M., Bailey, C., Ailon, T., Charest-Morin, R., Dea, N., Wilson, J.R., Dhall, S., Paquette, S., Street, J., Fisher, C.G., Dvorak, M.F., Shannon, C.P., Borchers, C., Balshaw, R., Foster, L.J., Kwon, B.K. &ldquo;Proteomic portraits reveal evolutionarily conserved and divergent responses to spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2021.01.27.428528v1">10.1101/2021.01.27.428528</a>. </li>
+
+    <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Deep generative models enable navigation in sparsely populated chemical space.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://doi.org/10.26434/chemrxiv.13638347.v1">10.26434/chemrxiv.13638347.v1</a>. </li>
 
     <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/351247v1">10.1101/351247</a>. </li>
 
@@ -23,7 +27,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
     <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>, <strong>39</strong>, 30&ndash;34 (2021). <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a> </li>
 
-    <li><u>Skinnider, M.A.</u>, Cai, C., Stacey, R.G., Foster, L.J. &ldquo;PrInCE: an R/Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.&rdquo; <em>Bioinformatics</em>, doi: <a href="https://doi.org/10.1093/bioinformatics/btab022">10.1093/bioinformatics/btab022</a>. <a href="/files/Bioinformatics 2021 - PrInCE- an R Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.pdf">[pdf]</a> </li>
+    <li><u>Skinnider, M.A.</u>, Cai, C., Stacey, R.G., Foster, L.J. &ldquo;PrInCE: an R/Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.&rdquo; <em>Bioinformatics</em>, doi: 10.1093/bioinformatics/btab022. <a href="/files/Bioinformatics 2021 - PrInCE- an R Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.pdf">[pdf]</a> </li>
 
 </ol>
 
@@ -33,7 +37,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Johnston, C.W., Gunabalasingam, M., Merwin, N.J., Kieliszek, A.M., MacLellan, R.J., Li, H., Ranieri, M.R.M., Webster, A.L.H., Cao, M.P.T., Pfeifle, A., Spencer, N., To, Q.H., Wallace, D.P., Dejong, C.A.<sup>†</sup>, Magarvey, N.A. &ldquo;Comprehensive prediction of secondary metabolite structure and biological activity from microbial genome sequences.&rdquo; <em>Nature Communications</em>, <strong>11</strong>, 6058 (2020). <a href="/files/Nat Commun 2020 - Comprehensive prediction of secondary metabolite structure and biological activity from microbial genome sequences">[pdf]</a> </li>
 
-    <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;On the robustness of graph-based clustering to random network alterations.&rdquo; <em>Molecular & Cellular Proteomics</em>, doi: <a href="https://doi.org/10.1074/mcp.RA120.002275">10.1074/mcp.RA120.002275</a>. <a href="/files/MCP 2020 - On the robustness of graph-based clustering to random network alterations.pdf">[pdf]</a> </li>
+    <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;On the robustness of graph-based clustering to random network alterations.&rdquo; <em>Molecular & Cellular Proteomics</em>, doi: 10.1074/mcp.RA120.002275. <a href="/files/MCP 2020 - On the robustness of graph-based clustering to random network alterations.pdf">[pdf]</a> </li>
 
     <li>Kerr, C.H.*, <u>Skinnider, M.A.</u>*, Andrews, D.D.T., Madero, A.M., Chan, Q.W.T., Stacey, R.G., Stoynov, N., Jan, E., Foster, L.J. &ldquo;Dynamic rewiring of the human interactome by interferon signalling.&rdquo; <em>Genome Biology</em>, <strong>21</strong>, 140 (2020). <a href="/files/Genome Biol 2020 - Dynamic rewiring of the human interactome by interferon signaling.pdf">[pdf]</a> </li>
 
