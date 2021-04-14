@@ -33,15 +33,15 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
     <li><u>Skinnider, M.A.</u>, Cai, C., Stacey, R.G., Foster, L.J. &ldquo;PrInCE: an R/Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.&rdquo; <em>Bioinformatics</em>, doi: 10.1093/bioinformatics/btab022. <a href="/files/Bioinformatics 2021 - PrInCE- an R Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.pdf">[pdf]</a> </li>
 
+    <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;On the robustness of graph-based clustering to random network alterations.&rdquo; <em>Molecular & Cellular Proteomics</em>, <strong>20</strong>, 100002 (2021). <a href="/files/MCP 2021 - On the Robustness of Graph-Based Clustering to Random Network Alterations.pdf">[pdf]</a> </li>
+
 </ol>
 
 **2020**
 
-<ol class="publications" reversed start="26">
+<ol class="publications" reversed start="25">
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Johnston, C.W., Gunabalasingam, M., Merwin, N.J., Kieliszek, A.M., MacLellan, R.J., Li, H., Ranieri, M.R.M., Webster, A.L.H., Cao, M.P.T., Pfeifle, A., Spencer, N., To, Q.H., Wallace, D.P., Dejong, C.A.<sup>†</sup>, Magarvey, N.A. &ldquo;Comprehensive prediction of secondary metabolite structure and biological activity from microbial genome sequences.&rdquo; <em>Nature Communications</em>, <strong>11</strong>, 6058 (2020). <a href="/files/Nat Commun 2020 - Comprehensive prediction of secondary metabolite structure and biological activity from microbial genome sequences">[pdf]</a> </li>
-
-    <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;On the robustness of graph-based clustering to random network alterations.&rdquo; <em>Molecular & Cellular Proteomics</em>, doi: 10.1074/mcp.RA120.002275. <a href="/files/MCP 2020 - On the robustness of graph-based clustering to random network alterations.pdf">[pdf]</a> </li>
 
     <li>Kerr, C.H.*, <u>Skinnider, M.A.</u>*, Andrews, D.D.T., Madero, A.M., Chan, Q.W.T., Stacey, R.G., Stoynov, N., Jan, E., Foster, L.J. &ldquo;Dynamic rewiring of the human interactome by interferon signalling.&rdquo; <em>Genome Biology</em>, <strong>21</strong>, 140 (2020). <a href="/files/Genome Biol 2020 - Dynamic rewiring of the human interactome by interferon signaling.pdf">[pdf]</a> </li>
 
