@@ -29,9 +29,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
     <li>Squair, J.W.*<sup>†</sup>, <u>Skinnider, M.A.</u>*<sup>†</sup>, Gautier, M., Foster, L.J., Courtine, G.<sup>†</sup> &ldquo;Prioritization of cell types responsive to biological perturbations in single-cell data with Augur.&rdquo; <em>Nature Protocols</em>, to appear.</li>
 
-    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>, <strong>39</strong>, 30&ndash;34 (2021). <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a> </li>
-
     <li><u>Skinnider, M.A.</u>, Cai, C., Stacey, R.G., Foster, L.J. &ldquo;PrInCE: an R/Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.&rdquo; <em>Bioinformatics</em>, doi: 10.1093/bioinformatics/btab022. <a href="/files/Bioinformatics 2021 - PrInCE- an R Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.pdf">[pdf]</a> </li>
+
+    <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>, <strong>39</strong>, 30&ndash;34 (2021). <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a> </li>
 
     <li>Stacey, R.G., <u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;On the robustness of graph-based clustering to random network alterations.&rdquo; <em>Molecular & Cellular Proteomics</em>, <strong>20</strong>, 100002 (2021). <a href="/files/MCP 2021 - On the Robustness of Graph-Based Clustering to Random Network Alterations.pdf">[pdf]</a> </li>
 
