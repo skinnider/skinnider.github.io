@@ -11,8 +11,10 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **Preprints**
 
-<ol class="publications" reversed start="31">
+<ol class="publications" reversed start="33">
 
+    <li>Squair, J.W., Gautier, M., Kathe, C., Anderson, M.A., James, N.D., Hutson, T.H., Hudelle, R., Qaiser, T., Matson, K.J.E., Barraud, Q., Levine, A.J., La Manno, G., <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup> &ldquo;Confronting false discoveries in single-cell differential expression.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2021.03.12.435024v1">10.1101/2021.03.12.435024</a>. </li>
+    
     <li><u>Skinnider, M.A.</u>, Rogalski, J., Tigchelaar, S., Manouchehri, N., Prudova, A., Jackson, A.M., Nielsen, K., Jeong, J., Chaudhary, S., Shortt, K., Gallagher-Kurtzke, Y., So, K., Fong, A., Gupta, R., Okon, E.B., Rizzuto, M.A., Dong, K., Streijger, F., Belanger, L., Ritchie, L., Tsang, A., Christie, S., Mac-Thiong, J.-M., Bailey, C., Ailon, T., Charest-Morin, R., Dea, N., Wilson, J.R., Dhall, S., Paquette, S., Street, J., Fisher, C.G., Dvorak, M.F., Shannon, C.P., Borchers, C., Balshaw, R., Foster, L.J., Kwon, B.K. &ldquo;Proteomic portraits reveal evolutionarily conserved and divergent responses to spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2021.01.27.428528v1">10.1101/2021.01.27.428528</a>. </li>
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Deep generative models enable navigation in sparsely populated chemical space.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://doi.org/10.26434/chemrxiv.13638347.v1">10.26434/chemrxiv.13638347.v1</a>. </li>
@@ -23,7 +25,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2021**
 
-<ol class="publications" reversed start="28">
+<ol class="publications" reversed start="29">
+
+    <li>Squair, J.W.*<sup>†</sup>, <u>Skinnider, M.A.</u>*<sup>†</sup>, Gautier, M., Foster, L.J., Courtine, G.<sup>†</sup> &ldquo;Prioritization of cell types responsive to biological perturbations in single-cell data with Augur.&rdquo; <em>Nature Protocols</em>, to appear.</li>
 
     <li><u>Skinnider, M.A.</u>*<sup>†</sup>, Squair, J.W.*<sup>†</sup>, Kathe, C., Anderson, M.A., Gautier, M., Matson, K.J.E., Milano, M., Hutson, T.H., Barraud, Q., Phillips, A.A., Foster, L.J., La Manno, G., Levine, A.J., Courtine, G.<sup>†</sup> &ldquo;Cell type prioritization in single-cell data.&rdquo; <em>Nature Biotechnology</em>, <strong>39</strong>, 30&ndash;34 (2021). <a href="/files/Nat Biotechnol 2020 - Cell type prioritization in single-cell data.pdf">[pdf]</a> </li>
 
