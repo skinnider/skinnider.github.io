@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [MD/PhD student](http://mdprogram.med.ubc.ca/mdphd/) at the University of British Columbia, in [Leonard Foster](https://www.msl.ubc.ca/people/dr-leonard-foster/)'s group. I'm currently in my fifth year of the combined program, and the third year of my PhD. 
+I'm an [MD/PhD student](http://mdprogram.med.ubc.ca/mdphd/) at the University of British Columbia, in [Leonard Foster](https://www.msl.ubc.ca/people/dr-leonard-foster/)'s group. I'm currently in my sixth year of the combined program, and the fourth and final year of my PhD. 
 
 Previously, I completed a [Bachelors of Arts & Science](https://artsci.mcmaster.ca) from McMaster University. My undergraduate research, with [Nathan Magarvey](https://chemistry.mcmaster.ca/component/comprofiler/userprofile/magarv.html), focused on computational methods for natural product discovery. 
 
