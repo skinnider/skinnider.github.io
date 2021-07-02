@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **Preprints**
 
-<ol class="publications" reversed start="34">
+<ol class="publications" reversed start="35">
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Wang, F., Pasin, D., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S.<sup>†</sup> &ldquo;A deep generative model enables automated structure elucidation of novel psychoactive substances.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://doi.org/10.26434/chemrxiv.14644854.v1">10.26434/chemrxiv.14644854</a></li>
 
