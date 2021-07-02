@@ -25,7 +25,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="32">
 
-    <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>Cell</em>, doi: <a href="https://doi.org/10.1016/j.cell.2021.06.003">10.1016/j.cell.2021.06.003</a>. <a href="/files/Cell 2021 - An atlas of protein-protein interactions across mouse tissues.pdf">[pdf]</a> </li>
+    <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Kerr, C.H., Stoynov, N., Stacey, R.G., Chan, Q.W.T., Rattray, D., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>Cell</em>, doi: <a href="https://doi.org/10.1016/j.cell.2021.06.003">10.1016/j.cell.2021.06.003</a>. <a href="/files/Cell 2021 - An atlas of protein-protein interactions across mouse tissues.pdf">[pdf]</a> </li>
 
     <li><u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;Meta-analysis defines principles for the design and analysis of co-fractionation mass spectrometry experiments.&rdquo; <em>Nature Methods</em>, doi: <a href="https://doi.org/10.1038/s41592-021-01194-4">10.1038/s41592-021-01194-4</a>. <a href="/files/Nat Meth 2021 - Meta-analysis defines principles for the design and analysis of co-fractionation mass spectrometry experiments.pdf">[pdf]</a> </li>
 
