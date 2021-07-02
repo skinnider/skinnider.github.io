@@ -19,17 +19,19 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
     
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Deep generative models enable navigation in sparsely populated chemical space.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://doi.org/10.26434/chemrxiv.13638347.v1">10.26434/chemrxiv.13638347.v1</a>. </li>
 
-    <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/351247v1">10.1101/351247</a>. </li>
-
 </ol>
 
 **2021**
 
-<ol class="publications" reversed start="30">
+<ol class="publications" reversed start="32">
 
-    <li>Squair, J.W.*<sup>†</sup>, <u>Skinnider, M.A.</u>*<sup>†</sup>, Gautier, M., Foster, L.J., Courtine, G.<sup>†</sup> &ldquo;Prioritization of cell types responsive to biological perturbations in single-cell data with Augur.&rdquo; <em>Nature Protocols</em>, doi: <a href="https://doi.org/10.1038/s41596-021-00561-x">10.1038/s41596-021-00561-x</a>. </li>
+    <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Stoynov, N., Stacey, R.G., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>Cell</em>, doi: <a href="https://doi.org/10.1016/j.cell.2021.06.003">10.1016/j.cell.2021.06.003</a>. <a href="/files/Cell 2021 - An atlas of protein-protein interactions across mouse tissues.pdf">[pdf]</a> </li>
 
-    <li><u>Skinnider, M.A.</u>, Rogalski, J., Tigchelaar, S., Manouchehri, N., Prudova, A., Jackson, A.M., Nielsen, K., Jeong, J., Chaudhary, S., Shortt, K., Gallagher-Kurtzke, Y., So, K., Fong, A., Gupta, R., Okon, E.B., Rizzuto, M.A., Dong, K., Streijger, F., Belanger, L., Ritchie, L., Tsang, A., Christie, S., Mac-Thiong, J.-M., Bailey, C., Ailon, T., Charest-Morin, R., Dea, N., Wilson, J.R., Dhall, S., Paquette, S., Street, J., Fisher, C.G., Dvorak, M.F., Shannon, C.P., Borchers, C., Balshaw, R., Foster, L.J., Kwon, B.K. &ldquo;Proteomic portraits reveal evolutionarily conserved and divergent responses to spinal cord injury.&rdquo; <em>Molecular & Cellular Proteomics</em>, doi: <a href="https://doi.org/10.1016/j.mcpro.2021.100096">10.1016/j.mcpro.2021.100096</a>. </li>
+    <li><u>Skinnider, M.A.</u>, Foster, L.J. &ldquo;Meta-analysis defines principles for the design and analysis of co-fractionation mass spectrometry experiments.&rdquo; <em>Nature Methods</em>, doi: <a href="https://doi.org/10.1038/s41592-021-01194-4">10.1038/s41592-021-01194-4</a>. <a href="/files/Nat Meth 2021 - Meta-analysis defines principles for the design and analysis of co-fractionation mass spectrometry experiments.pdf">[pdf]</a> </li>
+
+    <li>Squair, J.W.*<sup>†</sup>, <u>Skinnider, M.A.</u>*<sup>†</sup>, Gautier, M., Foster, L.J., Courtine, G.<sup>†</sup> &ldquo;Prioritization of cell types responsive to biological perturbations in single-cell data with Augur.&rdquo; <em>Nature Protocols</em>, doi: <a href="https://doi.org/10.1038/s41596-021-00561-x">10.1038/s41596-021-00561-x</a>. <a href="/files/Nat Protoc 2021 - Prioritization of cell types responsive to biological perturbations in single-cell data with Augur.pdf">[pdf]</a> </li>
+
+    <li><u>Skinnider, M.A.</u>, Rogalski, J., Tigchelaar, S., Manouchehri, N., Prudova, A., Jackson, A.M., Nielsen, K., Jeong, J., Chaudhary, S., Shortt, K., Gallagher-Kurtzke, Y., So, K., Fong, A., Gupta, R., Okon, E.B., Rizzuto, M.A., Dong, K., Streijger, F., Belanger, L., Ritchie, L., Tsang, A., Christie, S., Mac-Thiong, J.-M., Bailey, C., Ailon, T., Charest-Morin, R., Dea, N., Wilson, J.R., Dhall, S., Paquette, S., Street, J., Fisher, C.G., Dvorak, M.F., Shannon, C.P., Borchers, C., Balshaw, R., Foster, L.J., Kwon, B.K. &ldquo;Proteomic portraits reveal evolutionarily conserved and divergent responses to spinal cord injury.&rdquo; <em>Molecular & Cellular Proteomics</em>, <strong>20</strong>, 100096 (2021). <a href="/files/MCP 2021 - Proteomic Portraits Reveal Evolutionarily Conservedand Divergent Responses to Spinal Cord Injury.pdf">[pdf]</a> </li>
 
     <li><u>Skinnider, M.A.</u>, Cai, C., Stacey, R.G., Foster, L.J. &ldquo;PrInCE: an R/Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.&rdquo; <em>Bioinformatics</em>, doi: 10.1093/bioinformatics/btab022. <a href="/files/Bioinformatics 2021 - PrInCE- an R Bioconductor package for protein-protein interaction network inference from co-fractionation mass spectrometry data.pdf">[pdf]</a> </li>
 
