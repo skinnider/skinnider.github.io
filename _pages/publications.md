@@ -23,7 +23,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="33">
 
-    <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Chemical language models enable navigation in sparsely populated chemical space.&rdquo; <em>Nature Machine Intelligence</em>, doi: <a href="https://doi.org/10.1038/s42256-021-00368-1">10.1038/s42256-021-00368-1</a>. </li>
+    <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Chemical language models enable navigation in sparsely populated chemical space.&rdquo; <em>Nature Machine Intelligence</em>, doi: <a href="https://doi.org/10.1038/s42256-021-00368-1">10.1038/s42256-021-00368-1</a>. <a href="/files/Nat Mach Intell 2021 - Chemical language models enable navigation in sparsely populated chemical space.pdf">[pdf]</a> </li>
 
     <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Kerr, C.H., Stoynov, N., Stacey, R.G., Chan, Q.W.T., Rattray, D., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>Cell</em>, <strong>184</strong>, 4073&ndash;4089 (2021). <a href="/files/Cell 2021 - An atlas of protein-protein interactions across mouse tissues.pdf">[pdf]</a> </li>
 
