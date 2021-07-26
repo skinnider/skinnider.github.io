@@ -23,7 +23,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="34">
 
-    <li><u>Skinnider, M.A.</u>, Squair, J.W., Courtine, G. &ldquo;Enabling reproducible re-analysis of single-cell data.&rdquo; <em>Genome Biology</em>, <strong>22</strong>, 215. <a href="/files/Genome Biol 2021 - Enabling reproducible re-analysis of single-cell data.pdf">[pdf]</a> </li>
+    <li><small><em>(editorial)</em></small> <u>Skinnider, M.A.</u>, Squair, J.W., Courtine, G. &ldquo;Enabling reproducible re-analysis of single-cell data.&rdquo; <em>Genome Biology</em>, <strong>22</strong>, 215. <a href="/files/Genome Biol 2021 - Enabling reproducible re-analysis of single-cell data.pdf">[pdf]</a> </li>
 
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Chemical language models enable navigation in sparsely populated chemical space.&rdquo; <em>Nature Machine Intelligence</em>, doi: <a href="https://doi.org/10.1038/s42256-021-00368-1">10.1038/s42256-021-00368-1</a>. <a href="/files/Nat Mach Intell 2021 - Chemical language models enable navigation in sparsely populated chemical space.pdf">[pdf]</a> </li>
 
