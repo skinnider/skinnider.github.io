@@ -16,7 +16,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
     <li><u>Skinnider, M.A.</u><sup>†</sup>, Wang, F., Pasin, D., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S.<sup>†</sup> &ldquo;A deep generative model enables automated structure elucidation of novel psychoactive substances.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://doi.org/10.26434/chemrxiv.14644854.v1">10.26434/chemrxiv.14644854</a></li>
 
     <li>Squair, J.W., Gautier, M., Kathe, C., Anderson, M.A., James, N.D., Hutson, T.H., Hudelle, R., Qaiser, T., Matson, K.J.E., Barraud, Q., Levine, A.J., La Manno, G., <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup> &ldquo;Confronting false discoveries in single-cell differential expression.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2021.03.12.435024v1">10.1101/2021.03.12.435024</a>. </li>
-    
+
 </ol>
 
 **2021**
@@ -25,7 +25,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
     <li><small><em>(editorial)</em></small> <u>Skinnider, M.A.</u>, Squair, J.W., Courtine, G. &ldquo;Enabling reproducible re-analysis of single-cell data.&rdquo; <em>Genome Biology</em>, <strong>22</strong>, 215 (2021). <a href="/files/Genome Biol 2021 - Enabling reproducible re-analysis of single-cell data.pdf">[pdf]</a> </li>
 
-    <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Chemical language models enable navigation in sparsely populated chemical space.&rdquo; <em>Nature Machine Intelligence</em>, doi: <a href="https://doi.org/10.1038/s42256-021-00368-1">10.1038/s42256-021-00368-1</a>. <a href="/files/Nat Mach Intell 2021 - Chemical language models enable navigation in sparsely populated chemical space.pdf">[pdf]</a> </li>
+    <li><u>Skinnider, M.A.</u><sup>†</sup>, Stacey, R.G., Wishart, D.S., Foster, L.J.<sup>†</sup> &ldquo;Chemical language models enable navigation in sparsely populated chemical space.&rdquo; <em>Nature Machine Intelligence</em>, <strong>3</strong>, 759&ndash;770 (2021). <a href="/files/Nat Mach Intell 2021 - Chemical language models enable navigation in sparsely populated chemical space.pdf">[pdf]</a> </li>
 
     <li><u>Skinnider, M.A.</u>*, Scott, N.E.*, Prudova, A., Kerr, C.H., Stoynov, N., Stacey, R.G., Chan, Q.W.T., Rattray, D., Gsponer, J., Foster, L.J. &ldquo;An atlas of protein-protein interactions across mammalian tissues.&rdquo; <em>Cell</em>, <strong>184</strong>, 4073&ndash;4089 (2021). <a href="/files/Cell 2021 - An atlas of protein-protein interactions across mouse tissues.pdf">[pdf]</a> </li>
 
@@ -128,4 +128,3 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
     <li><u>Skinnider, M.A.</u>*, Johnston, C.W.*,  Zvanych, R., Magarvey, N.A. &ldquo;Automated identification of depsipeptide natural products by an informatic search algorithm.&rdquo; <em>ChemBioChem</em>, <strong>16</strong>, 223&ndash;227 (2015). <a href="/files/ChemBioChem 2015 - Automated Identification of Depsipeptide Natural Products by an Informatic Search Algorithm.pdf">[pdf]</a> </li>
 
 </ol>
-
