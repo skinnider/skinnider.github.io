@@ -21,7 +21,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="35">
 
-    <li>Squair, J.W., Gautier, M., Kathe, C., Anderson, M.A., James, N.D., Hutson, T.H., Hudelle, R., Qaiser, T., Matson, K.J.E., Barraud, Q., Levine, A.J., La Manno, G., <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup> &ldquo;Confronting false discoveries in single-cell differential expression.&rdquo; <em>Nature Communications</em>, <strong>18</strong>, 5692 (2021). <a href="">[pdf]</a> </li>
+    <li>Squair, J.W., Gautier, M., Kathe, C., Anderson, M.A., James, N.D., Hutson, T.H., Hudelle, R., Qaiser, T., Matson, K.J.E., Barraud, Q., Levine, A.J., La Manno, G., <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup> &ldquo;Confronting false discoveries in single-cell differential expression.&rdquo; <em>Nature Communications</em>, <strong>18</strong>, 5692 (2021). <a href="/files/Nat Commun 2021 - Confronting false discoveries in single-cell differential expression.pdf">[pdf]</a> </li>
     
     <li><small><em>(editorial)</em></small> <u>Skinnider, M.A.</u>, Squair, J.W., Courtine, G. &ldquo;Enabling reproducible re-analysis of single-cell data.&rdquo; <em>Genome Biology</em>, <strong>22</strong>, 215 (2021). <a href="/files/Genome Biol 2021 - Enabling reproducible re-analysis of single-cell data.pdf">[pdf]</a> </li>
 
