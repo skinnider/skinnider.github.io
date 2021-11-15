@@ -9,17 +9,11 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <small><em>* co-first author, <sup>†</sup> corresponding author</em></small>
 
-**Preprints**
+**2021**
 
 <ol class="publications" reversed start="36">
 
-    <li><u>Skinnider, M.A.</u><sup>†</sup>, Wang, F., Pasin, D., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S.<sup>†</sup> &ldquo;A deep generative model enables automated structure elucidation of novel psychoactive substances.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://doi.org/10.26434/chemrxiv.14644854.v1">10.26434/chemrxiv.14644854</a></li>
-
-</ol>
-
-**2021**
-
-<ol class="publications" reversed start="35">
+    <li><u>Skinnider, M.A.</u><sup>†</sup>, Wang, F., Pasin, D., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S.<sup>†</sup> &ldquo;A deep generative model enables automated structure elucidation of novel psychoactive substances.&rdquo; <em>Nature Machine Intelligence</em>, <strong>3</strong>, 973&ndash;984 (2021). <a href="/files/Nat Mach Intell 2021 - A deep generative model enables automated structure elucidation of novel psychoactive substances.pdf">[pdf]</a> </li>
 
     <li>Squair, J.W., Gautier, M., Kathe, C., Anderson, M.A., James, N.D., Hutson, T.H., Hudelle, R., Qaiser, T., Matson, K.J.E., Barraud, Q., Levine, A.J., La Manno, G., <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup> &ldquo;Confronting false discoveries in single-cell differential expression.&rdquo; <em>Nature Communications</em>, <strong>18</strong>, 5692 (2021). <a href="/files/Nat Commun 2021 - Confronting false discoveries in single-cell differential expression.pdf">[pdf]</a> </li>
     
