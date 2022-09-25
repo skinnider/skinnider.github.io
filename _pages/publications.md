@@ -11,9 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2022**
 
-<ol class="publications" reversed start="36">
+<ol class="publications" reversed start="37">
 
-    <li>Kathe, C.*, <u>Skinnider, M.A.</u>*, Hutson, T.H*, Regazzi, N., Gautier, M., Demesmaeker, R., Komi, S., Ceto, S., James, N.D., Cho, N., Baud, L., Galan, K., Matson, K.J.E., Rowald, A., Kim, K., Wang, R., Prior, J.O., Asboth, L., Barraud, Q., Lacour, S.P., Levine, A.J., Wagner, F., Bloch, J., Squair, J.W., Courtine, G. &ldquo;The neurons that restore walking after paralysis.&rdquo; <em>Nature</em>, <strong>3</strong>, in press. </li>
+    <li>Kathe, C.*, <u>Skinnider, M.A.</u>*, Hutson, T.H*, Regazzi, N., Gautier, M., Demesmaeker, R., Komi, S., Ceto, S., James, N.D., Cho, N., Baud, L., Galan, K., Matson, K.J.E., Rowald, A., Kim, K., Wang, R., Prior, J.O., Asboth, L., Barraud, Q., Lacour, S.P., Levine, A.J., Wagner, F., Bloch, J., Squair, J.W., Courtine, G. &ldquo;The neurons that restore walking after paralysis.&rdquo; <em>Nature</em>, in press. </li>
 
 </ol>
 
