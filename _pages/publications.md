@@ -9,11 +9,17 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <small><em>* co-first author, <sup>†</sup> corresponding author</em></small>
 
-**2022**
+**2023**
 
 <ol class="publications" reversed start="38">
 
    <li>Stukas, S., Cooper, J., Gill, J., Fallah, N., <u>Skinnider, M.A.</u>, Belanger, L., Ritchie, L., Tsang, A., Dong, K., Streijger, F., Street, J., Paquette, S., Ailon, T., Dea, N., Charest-Morin, R., Fisher, C.G., Bailey, C.S., Dhall, S., Mac-Thiong, J.-M., Wilson, J.R., Christie, S., Dvorak, M.F., Wellington, C., Kwon, B.K. &ldquo;Association of CSF and serum neurofilament light and glial fibrillary acidic protein and injury severity and outcome in patients with acute spinal cord injury.&rdquo; <em>Neurology</em>, in press. </li>
+
+</ol>
+
+**2022**
+
+<ol class="publications" reversed start="37">
 
     <li>Kathe, C.*, <u>Skinnider, M.A.</u>*, Hutson, T.H.*, Regazzi, N., Gautier, M., Demesmaeker, R., Komi, S., Ceto, S., James, N.D., Cho, N., Baud, L., Galan, K., Matson, K.J.E., Rowald, A., Kim, K., Wang, R., Prior, J.O., Asboth, L., Barraud, Q., Lacour, S.P., Levine, A.J., Wagner, F., Bloch, J., Squair, J.W., Courtine, G. &ldquo;The neurons that restore walking after paralysis.&rdquo; <em>Nature</em>, <strong>611</strong>, 540&ndash;547. <a href="/files/Nature 2022 - The neurons that restore walking after paralysis - no extended data.pdf">[pdf]</a> </li>
 
