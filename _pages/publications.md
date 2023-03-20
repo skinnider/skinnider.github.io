@@ -13,7 +13,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="38">
 
-   <li>Stukas, S., Cooper, J., Gill, J., Fallah, N., <u>Skinnider, M.A.</u>, Belanger, L., Ritchie, L., Tsang, A., Dong, K., Streijger, F., Street, J., Paquette, S., Ailon, T., Dea, N., Charest-Morin, R., Fisher, C.G., Bailey, C.S., Dhall, S., Mac-Thiong, J.-M., Wilson, J.R., Christie, S., Dvorak, M.F., Wellington, C., Kwon, B.K. &ldquo;Association of CSF and serum neurofilament light and glial fibrillary acidic protein and injury severity and outcome in patients with acute spinal cord injury.&rdquo; <em>Neurology</em>, in press. </li>
+   <li>Stukas, S., Cooper, J., Gill, J., Fallah, N., <u>Skinnider, M.A.</u>, Belanger, L., Ritchie, L., Tsang, A., Dong, K., Streijger, F., Street, J., Paquette, S., Ailon, T., Dea, N., Charest-Morin, R., Fisher, C.G., Bailey, C.S., Dhall, S., Mac-Thiong, J.-M., Wilson, J.R., Christie, S., Dvorak, M.F., Wellington, C., Kwon, B.K. &ldquo;Association of CSF and serum neurofilament light and glial fibrillary acidic protein and injury severity and outcome in patients with acute spinal cord injury.&rdquo; <em>Neurology</em>, <strong>100</strong>, e1221&ndash;e1233. <a href="/files/Neurology 2023 - Association of CSF and Serum Neurofilament Light and Glial Fibrillary Acidic Protein, Injury Severity, and Outcome in Spinal Cord Injury.pdf">[pdf]</a> </li>
 
 </ol>
 
