@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2023**
 
-<ol class="publications" reversed start="38">
+<ol class="publications" reversed start="39">
+
+   <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;The <em>Tabulae Paralytica</em>: Multimodal single-cell and spatial atlases of spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2023.06.23.544348">10.1101/2023.06.23.544348</a>. </li>
 
    <li>Stukas, S., Cooper, J., Gill, J., Fallah, N., <u>Skinnider, M.A.</u>, Belanger, L., Ritchie, L., Tsang, A., Dong, K., Streijger, F., Street, J., Paquette, S., Ailon, T., Dea, N., Charest-Morin, R., Fisher, C.G., Bailey, C.S., Dhall, S., Mac-Thiong, J.-M., Wilson, J.R., Christie, S., Dvorak, M.F., Wellington, C., Kwon, B.K. &ldquo;Association of CSF and serum neurofilament light and glial fibrillary acidic protein and injury severity and outcome in patients with acute spinal cord injury.&rdquo; <em>Neurology</em>, <strong>100</strong>, e1221&ndash;e1233 (2023). <a href="/files/Neurology 2023 - Association of CSF and Serum Neurofilament Light and Glial Fibrillary Acidic Protein, Injury Severity, and Outcome in Spinal Cord Injury.pdf">[pdf]</a> </li>
 
