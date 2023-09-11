@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Skinnider"
 title_separator          : "-"
 name                     : &name "Michael Skinnider"
-description              : &description "MD/PhD student at UBC"
+description              : &description "Assistant professor @ Princeton University"
 url                      : https://skinnider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skinnider/skinnider.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : skinniderlab
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Michael Skinnider"
   avatar           : "profile.jpg"
-  bio              : "MD/PhD student at UBC"
-  location         : "Vancouver, BC"
+  bio              : "Assistant professor at Princeton University"
+  location         : "Princeton, NJ"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(skinnider+ma%5BAuthor%5D)"
   googlescholar    : "https://scholar.google.ca/citations?user=o00Z6d0AAAAJ&hl=en&oi=ao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : skinniderlab
   vine             :
   weibo            :
   xing             :
