@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="42">
+<ol class="publications" reversed start="43">
 
    <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;The <em>Tabulae Paralytica</em>: Multimodal single-cell and spatial atlases of spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2023.06.23.544348">10.1101/2023.06.23.544348</a>. </li>
 
@@ -19,7 +19,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2023**
 
-<ol class="publications" reversed start="41">
+<ol class="publications" reversed start="42">
+
+   <li><u>Skinnider, M.A.</u> &ldquo;Hallucinating hallucinogens.&rdquo; <em>Science</em>, <strong>382</strong>, 656&ndash;657 (2023). <a href="/files/Science 2023 - Hallucinating hallucinogens.pdf">[pdf]</a></li>
 
    <li><u>Skinnider, M.A.</u> &ldquo;From single cells to neural circuits.&rdquo; <em>Science</em>, <strong>382</strong>, 528 (2023). <a href="/files/Science 2023 - From single cells to neural circuits.pdf">[pdf]</a></li>
 
