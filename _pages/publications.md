@@ -21,9 +21,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="42">
 
-   <li><u>Skinnider, M.A.</u> &ldquo;Hallucinating hallucinogens.&rdquo; <em>Science</em>, <strong>382</strong>, 656&ndash;657 (2023). <a href="/files/Science 2023 - Hallucinating hallucinogens.pdf">[pdf]</a></li>
+   <li><small><em>(essay)</em></small> <u>Skinnider, M.A.</u> &ldquo;Hallucinating hallucinogens.&rdquo; <em>Science</em>, <strong>382</strong>, 656&ndash;657 (2023). <a href="/files/Science 2023 - Hallucinating hallucinogens.pdf">[pdf]</a></li>
 
-   <li><u>Skinnider, M.A.</u> &ldquo;From single cells to neural circuits.&rdquo; <em>Science</em>, <strong>382</strong>, 528 (2023). <a href="/files/Science 2023 - From single cells to neural circuits.pdf">[pdf]</a></li>
+   <li><small><em>(essay)</em></small> <u>Skinnider, M.A.</u> &ldquo;From single cells to neural circuits.&rdquo; <em>Science</em>, <strong>382</strong>, 528 (2023). <a href="/files/Science 2023 - From single cells to neural circuits.pdf">[pdf]</a></li>
 
    <li>Squair, J.W.*, Milano, M.*, Gautier, M., de Coucy, A., <u>Skinnider, M.A.</u>, James, N.D., Cho, N., Lasne, A., Kathe, C., Hutson, T., Ceto, S., Baud, L., Galan, K., Barraud, Q., Deming, T.J., Schneider, B., He, Z., Sofroniew, M.V., Courtine, G., Anderson, M.A. “Recovery of walking after paralysis by regenerating characterized neurons to their natural target region.” <em>Science</em>, <strong>381</strong>, 1338&ndash;1345 (2023). <a href="/files/Science 2023 - Recovery of walking after paralysis by regenerating characterized neurons to their natural target region.pdf">[pdf]</a></li>
 
