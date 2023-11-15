@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="43">
+<ol class="publications" reversed start="44">
 
    <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;The <em>Tabulae Paralytica</em>: Multimodal single-cell and spatial atlases of spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2023.06.23.544348">10.1101/2023.06.23.544348</a>. </li>
 
@@ -19,7 +19,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2023**
 
-<ol class="publications" reversed start="42">
+<ol class="publications" reversed start="43">
+
+   <li><u>Skinnider, M.A.</u><sup>†</sup>, Merette, S.A.M., Pasin, D., Rogalski, J., Foster, L.J., Scheuermeyer, F., Shapiro, A.M. &ldquo;Identification of emerging novel psychoactive substances by retrospective analysis of population-scale mass spectrometry data sets.&rdquo; <em>Analytical Chemistry</em>, doi: 10.1021/acs.analchem.3c03451 (2023). <a href="/files/Anal Chem 2023 - Identification of Emerging Novel Psychoactive Substances by Retrospective Analysis of Population-Scale Mass Spectrometry Data Sets.pdf">[pdf]</a></li>
 
    <li><small><em>(essay)</em></small> <u>Skinnider, M.A.</u> &ldquo;Hallucinating hallucinogens.&rdquo; <em>Science</em>, <strong>382</strong>, 656&ndash;657 (2023). <a href="/files/Science 2023 - Hallucinating hallucinogens.pdf">[pdf]</a></li>
 
