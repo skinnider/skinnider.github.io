@@ -21,7 +21,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="43">
 
-   <li><u>Skinnider, M.A.</u><sup>†</sup>, Merette, S.A.M., Pasin, D., Rogalski, J., Foster, L.J., Scheuermeyer, F., Shapiro, A.M. &ldquo;Identification of emerging novel psychoactive substances by retrospective analysis of population-scale mass spectrometry data sets.&rdquo; <em>Analytical Chemistry</em>, doi: 10.1021/acs.analchem.3c03451 (2023). <a href="/files/Anal Chem 2023 - Identification of Emerging Novel Psychoactive Substances by Retrospective Analysis of Population-Scale Mass Spectrometry Data Sets.pdf">[pdf]</a></li>
+   <li><u>Skinnider, M.A.</u><sup>†</sup>, Merette, S.A.M., Pasin, D., Rogalski, J., Foster, L.J., Scheuermeyer, F., Shapiro, A.M. &ldquo;Identification of emerging novel psychoactive substances by retrospective analysis of population-scale mass spectrometry data sets.&rdquo; <em>Analytical Chemistry</em>, <strong>95</strong>, 17300&ndash;17310 (2023). <a href="/files/Anal Chem 2023 - Identification of Emerging Novel Psychoactive Substances by Retrospective Analysis of Population-Scale Mass Spectrometry Data Sets.pdf">[pdf]</a></li>
 
    <li><small><em>(essay)</em></small> <u>Skinnider, M.A.</u> &ldquo;Hallucinating hallucinogens.&rdquo; <em>Science</em>, <strong>382</strong>, 656&ndash;657 (2023). <a href="/files/Science 2023 - Hallucinating hallucinogens.pdf">[pdf]</a></li>
 
