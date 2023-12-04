@@ -19,7 +19,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2023**
 
-<ol class="publications" reversed start="43">
+<ol class="publications" reversed start="44">
+
+   <li>Wang, F., Pasin, D., <u>Skinnider, M.A.</u>, Liigand, J., Kleis, J.-N., Brown, D., Oler, E., Sajed, T., Gautam, V., Harrison, S., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S. &ldquo;Deep learning-enabled MS/MS spectrum prediction facilitates automated identification of novel psychoactive substances.&rdquo; <em>Analytical Chemistry</em>, doi: 10.1021/acs.analchem.3c02413. <a href="/files/Anal Chem 2023 - Deep Learning-Enabled MS-MS Spectrum Prediction Facilitates Automated Identification Of Novel Psychoactive Substances.pdf">[pdf]</a></li>
 
    <li><u>Skinnider, M.A.</u><sup>†</sup>, Merette, S.A.M., Pasin, D., Rogalski, J., Foster, L.J., Scheuermeyer, F., Shapiro, A.M. &ldquo;Identification of emerging novel psychoactive substances by retrospective analysis of population-scale mass spectrometry data sets.&rdquo; <em>Analytical Chemistry</em>, <strong>95</strong>, 17300&ndash;17310 (2023). <a href="/files/Anal Chem 2023 - Identification of Emerging Novel Psychoactive Substances by Retrospective Analysis of Population-Scale Mass Spectrometry Data Sets.pdf">[pdf]</a></li>
 
