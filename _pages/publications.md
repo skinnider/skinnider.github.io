@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="45">
+<ol class="publications" reversed start="46">
 
    <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;The <em>Tabulae Paralytica</em>: Multimodal single-cell and spatial atlases of spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2023.06.23.544348">10.1101/2023.06.23.544348</a>. </li>
 
@@ -19,7 +19,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2023**
 
-<ol class="publications" reversed start="44">
+<ol class="publications" reversed start="45">
+
+   <li><u>Skinnider, M.A.</u>, Akinlaja, M.O., Foster, L.J. &ldquo;Mapping protein states and interactions across the tree of life with co-fractionation mass spectrometry.&rdquo; <em>Nature Communications</em>, <strong>14</strong>, 8365. <a href="/files/Nat Commun 2023 - Mapping protein states and interactions across the tree of life with co-fractionation mass spectrometry.pdf">[pdf]</a></li>
 
    <li>Wang, F., Pasin, D., <u>Skinnider, M.A.</u>, Liigand, J., Kleis, J.-N., Brown, D., Oler, E., Sajed, T., Gautam, V., Harrison, S., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S. &ldquo;Deep learning-enabled MS/MS spectrum prediction facilitates automated identification of novel psychoactive substances.&rdquo; <em>Analytical Chemistry</em>, doi: 10.1021/acs.analchem.3c02413. <a href="/files/Anal Chem 2023 - Deep Learning-Enabled MS-MS Spectrum Prediction Facilitates Automated Identification Of Novel Psychoactive Substances.pdf">[pdf]</a></li>
 
