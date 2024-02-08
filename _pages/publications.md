@@ -21,7 +21,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="46">
 
-   <li><small><em>(news & views)</em></small> <u>Skinnider, M.A.</u> &ldquo;Spectrum of the past.&rdquo; <em>Nature Reviews Chemistry</em>, doi: 10.1038/s41570-023-00570-2. <a href="/files/Nat Rev Chem 2024 - Spectrum of the past.pdf">[pdf]</a></li>
+   <li><small><em>(news & views)</em></small> <u>Skinnider, M.A.</u> &ldquo;Spectrum of the past.&rdquo; <em>Nature Reviews Chemistry</em>, <strong>8</strong>, 85&ndash;86. <a href="/files/Nat Rev Chem 2024 - Spectrum of the past.pdf">[pdf]</a></li>
 
 </ol>
 
