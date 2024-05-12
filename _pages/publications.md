@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="48">
+<ol class="publications" reversed start="49">
+
+   <li>Soriano, J.E.*, Hudelle, R.*, Mahe, L., Gautier, M., Teo, Y.Y., <u>Skinnider, M.A.</u>, Laskaratos, A., Ceto, S., Kathe, C., Hutson, T., Charbonneau, R., Girgis, F., Casha, S., Rimok, J., Tso, M., Larkin-Kaiser, K., Hankov, N., Gandhi, A.P., Amir, S., Kang, X., Vyza, Y., Martin-Moraud, E., Lacour, S., Demesmaeker, R., Asboth, L., Barraud, Q., Anderson, M.A., Bloch, J., Squair, J.W., Phillips, A.A., Courtine, G. &ldquo;The neuronal architecture of autonomic dysreflexia.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2024.05.06.592781">10.1101/2024.05.06.592781</a>. </li>
 
    <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;The <em>Tabulae Paralytica</em>: Multimodal single-cell and spatial atlases of spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2023.06.23.544348">10.1101/2023.06.23.544348</a>. </li>
 
