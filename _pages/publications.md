@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="49">
+<ol class="publications" reversed start="50">
+
+   <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>,, Squair, J.W.<sup>†</sup>,, <u>Skinnider, M.A.</u><sup>†</sup>. &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rqduo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v1">10.1101/2024.06.13.598641</a>. </li>
 
    <li>Soriano, J.E.*, Hudelle, R.*, Mahe, L., Gautier, M., Teo, Y.Y., <u>Skinnider, M.A.</u>, Laskaratos, A., Ceto, S., Kathe, C., Hutson, T., Charbonneau, R., Girgis, F., Casha, S., Rimok, J., Tso, M., Larkin-Kaiser, K., Hankov, N., Gandhi, A.P., Amir, S., Kang, X., Vyza, Y., Martin-Moraud, E., Lacour, S., Demesmaeker, R., Asboth, L., Barraud, Q., Anderson, M.A., Bloch, J., Squair, J.W., Phillips, A.A., Courtine, G. &ldquo;The neuronal architecture of autonomic dysreflexia.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2024.05.06.592781">10.1101/2024.05.06.592781</a>. </li>
 
