@@ -13,17 +13,17 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="50">
 
-   <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>, Squair, J.W.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup>. &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v1">10.1101/2024.06.13.598641</a>. </li>
+   <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>, Squair, J.W.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup>. &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v2">10.1101/2024.06.13.598641</a>. </li>
 
    <li>Soriano, J.E.*, Hudelle, R.*, Mahe, L., Gautier, M., Teo, Y.Y., <u>Skinnider, M.A.</u>, Laskaratos, A., Ceto, S., Kathe, C., Hutson, T., Charbonneau, R., Girgis, F., Casha, S., Rimok, J., Tso, M., Larkin-Kaiser, K., Hankov, N., Gandhi, A.P., Amir, S., Kang, X., Vyza, Y., Martin-Moraud, E., Lacour, S., Demesmaeker, R., Asboth, L., Barraud, Q., Anderson, M.A., Bloch, J., Squair, J.W., Phillips, A.A., Courtine, G. &ldquo;The neuronal architecture of autonomic dysreflexia.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2024.05.06.592781">10.1101/2024.05.06.592781</a>. </li>
-
-   <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;The <em>Tabulae Paralytica</em>: Multimodal single-cell and spatial atlases of spinal cord injury.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2023.06.23.544348">10.1101/2023.06.23.544348</a>. </li>
 
 </ol>
 
 **2024**
 
-<ol class="publications" reversed start="47">
+<ol class="publications" reversed start="48">
+
+   <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;Single-cell and spatial atlases of spinal cord injury in the <em>Tabulae Paralytica</em>.&rdquo; <em>Nature</em>, doi: <a href="https://doi.org/10.1038/s41586-024-07504-y">10.1038/s41586-024-07504-y</a>. <a href="/files/Nature 2024 - Single-cell and spatial atlases of spinal cord injury in the Tabulae Paralytica.pdf">[pdf]</a></li>
 
   <li><u>Skinnider, M.A.</u> &ldquo;Invalid SMILES are beneficial rather than detrimental to chemical language models.&rdquo; <em>Nature Machine Intelligence</em>, <strong>6</strong>, 437&ndash;448. <a href="/files/Nat Mach Intell 2024 - Invalid SMILES are beneficial rather than detrimental to chemical language models.pdf">[pdf]</a></li>
 
