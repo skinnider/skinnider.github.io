@@ -23,7 +23,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="48">
 
-   <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;Single-cell and spatial atlases of spinal cord injury in the <em>Tabulae Paralytica</em>.&rdquo; <em>Nature</em>, doi: <a href="https://doi.org/10.1038/s41586-024-07504-y">10.1038/s41586-024-07504-y</a>. <a href="/files/Nature 2024 - Single-cell and spatial atlases of spinal cord injury in the Tabulae Paralytica.pdf">[pdf]</a></li>
+   <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;Single-cell and spatial atlases of spinal cord injury in the <em>Tabulae Paralytica</em>.&rdquo; <em>Nature</em>, doi: 10.1038/s41586-024-07504-y. <a href="/files/Nature 2024 - Single-cell and spatial atlases of spinal cord injury in the Tabulae Paralytica.pdf">[pdf]</a></li>
 
   <li><u>Skinnider, M.A.</u> &ldquo;Invalid SMILES are beneficial rather than detrimental to chemical language models.&rdquo; <em>Nature Machine Intelligence</em>, <strong>6</strong>, 437&ndash;448. <a href="/files/Nat Mach Intell 2024 - Invalid SMILES are beneficial rather than detrimental to chemical language models.pdf">[pdf]</a></li>
 
