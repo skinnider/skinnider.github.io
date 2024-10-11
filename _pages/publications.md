@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="50">
+<ol class="publications" reversed start="51">
 
    <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>, Squair, J.W.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup>. &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v2">10.1101/2024.06.13.598641</a>. </li>
 
@@ -21,7 +21,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2024**
 
-<ol class="publications" reversed start="48">
+<ol class="publications" reversed start="49">
+
+   <li>Teo, A.Y.Y., Squair, J.W.<sup>†</sup>, Courtine, G.<sup>†</sup>, Skinnider, M.A.<sup>†</sup> &ldquo;Best practices for differential accessibility analysis in single-cell epigenomics.&rdquo; <em>Nature Communications</em>, <strong>15</strong>, 8805. <a href="/files/Nat Commun 2024 - Best practices for differential accessibility analysis in single-cell epigenomics.pdf">[pdf]</a></li>
 
    <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;Single-cell and spatial atlases of spinal cord injury in the <em>Tabulae Paralytica</em>.&rdquo; <em>Nature</em>, <strong>631</strong>, 150&ndash;163 (2024). <a href="/files/Nature 2024 - Single-cell and spatial atlases of spinal cord injury in the Tabulae Paralytica.pdf">[pdf]</a></li>
 
