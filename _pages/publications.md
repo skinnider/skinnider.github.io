@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="51">
+<ol class="publications" reversed start="52">
+
+   <li>Qiang, H.*, Wang, F.*, Lu, W., Xing, X., Kim, H., Merette, S.A.M., Ayres, L.B., Oler, E., AbuSalim, J.E., Roichman, A., Neinast, M., Cordova, R.A., Lee, W.D., Herbst, E., Gupta, V., Neff, S., Hiebert-Giesbrecht, M., Young, A., Gautam, V., Tian, S., Wang, B., Röst, H., Greiner, R., Chen, L., Johnston, C.W., Foster, L.J., Shapiro, A.M., Wishart, D.S., Rabinowitz, J.D., Skinnider, M.A.<sup>†</sup>. &ldquo;Language model-guided anticipation and discovery of unknown metabolites.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.11.13.623458v1">10.1101/2024.11.13.623458</a>. </li>
 
    <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>, Squair, J.W.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup>. &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v2">10.1101/2024.06.13.598641</a>. </li>
 
