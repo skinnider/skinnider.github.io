@@ -34,9 +34,9 @@ on new lessons in old data.&rdquo; <em>GigaScience</em>, <strong>13</strong>, 1&
 
    <li><u>Skinnider, M.A.</u>*, Gautier, M.*, Teo, A.Y.Y., Kathe, C., Hutson, T., Laskaratos, A., de Coucy, A., Regazzi, N., Aureli, V., James, N.D., Schneider, B., Sofroniew, M., Barraud, Q., Bloch, J., Anderson, M.A., Squair, J.W., Courtine, G. &ldquo;Single-cell and spatial atlases of spinal cord injury in the <em>Tabulae Paralytica</em>.&rdquo; <em>Nature</em>, <strong>631</strong>, 150&ndash;163 (2024). <a href="/files/Nature 2024 - Single-cell and spatial atlases of spinal cord injury in the Tabulae Paralytica.pdf">[pdf]</a></li>
 
-  <li><u>Skinnider, M.A.</u> &ldquo;Invalid SMILES are beneficial rather than detrimental to chemical language models.&rdquo; <em>Nature Machine Intelligence</em>, <strong>6</strong>, 437&ndash;448. <a href="/files/Nat Mach Intell 2024 - Invalid SMILES are beneficial rather than detrimental to chemical language models.pdf">[pdf]</a></li>
+  <li><u>Skinnider, M.A.</u> &ldquo;Invalid SMILES are beneficial rather than detrimental to chemical language models.&rdquo; <em>Nature Machine Intelligence</em>, <strong>6</strong>, 437&ndash;448 (2024). <a href="/files/Nat Mach Intell 2024 - Invalid SMILES are beneficial rather than detrimental to chemical language models.pdf">[pdf]</a></li>
 
-   <li><small><em>(news & views)</em></small> <u>Skinnider, M.A.</u> &ldquo;Spectrum of the past.&rdquo; <em>Nature Reviews Chemistry</em>, <strong>8</strong>, 85&ndash;86. <a href="/files/Nat Rev Chem 2024 - Spectrum of the past.pdf">[pdf]</a></li>
+   <li><small><em>(news & views)</em></small> <u>Skinnider, M.A.</u> &ldquo;Spectrum of the past.&rdquo; <em>Nature Reviews Chemistry</em>, <strong>8</strong>, 85&ndash;86 (2024). <a href="/files/Nat Rev Chem 2024 - Spectrum of the past.pdf">[pdf]</a></li>
 
 </ol>
 
@@ -44,7 +44,7 @@ on new lessons in old data.&rdquo; <em>GigaScience</em>, <strong>13</strong>, 1&
 
 <ol class="publications" reversed start="45">
 
-   <li><u>Skinnider, M.A.</u>, Akinlaja, M.O., Foster, L.J. &ldquo;Mapping protein states and interactions across the tree of life with co-fractionation mass spectrometry.&rdquo; <em>Nature Communications</em>, <strong>14</strong>, 8365. <a href="/files/Nat Commun 2023 - Mapping protein states and interactions across the tree of life with co-fractionation mass spectrometry.pdf">[pdf]</a></li>
+   <li><u>Skinnider, M.A.</u>, Akinlaja, M.O., Foster, L.J. &ldquo;Mapping protein states and interactions across the tree of life with co-fractionation mass spectrometry.&rdquo; <em>Nature Communications</em>, <strong>14</strong>, 8365 (2023). <a href="/files/Nat Commun 2023 - Mapping protein states and interactions across the tree of life with co-fractionation mass spectrometry.pdf">[pdf]</a></li>
 
    <li>Wang, F., Pasin, D., <u>Skinnider, M.A.</u>, Liigand, J., Kleis, J.-N., Brown, D., Oler, E., Sajed, T., Gautam, V., Harrison, S., Greiner, R., Foster, L.J., Dalsgaard, P.W., Wishart, D.S. &ldquo;Deep learning-enabled MS/MS spectrum prediction facilitates automated identification of novel psychoactive substances.&rdquo; <em>Analytical Chemistry</em>, <strong>95</strong>, 18326&ndash;18334 (2023). <a href="/files/Anal Chem 2023 - Deep Learning-Enabled MS-MS Spectrum Prediction Facilitates Automated Identification Of Novel Psychoactive Substances.pdf">[pdf]</a></li>
 
