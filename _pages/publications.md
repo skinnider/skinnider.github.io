@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="54"> 
+<ol class="publications" reversed start="55"> 
 
    <li>Qiang, H.*, Wang, F.*, Lu, W., Xing, X., Kim, H., Merette, S.A.M., Ayres, L.B., Oler, E., AbuSalim, J.E., Roichman, A., Neinast, M., Cordova, R.A., Lee, W.D., Herbst, E., Gupta, V., Neff, S., Hiebert-Giesbrecht, M., Young, A., Gautam, V., Tian, S., Wang, B., Röst, H., Greiner, R., Chen, L., Johnston, C.W., Foster, L.J., Shapiro, A.M., Wishart, D.S., Rabinowitz, J.D., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Language model-guided anticipation and discovery of unknown metabolites.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.11.13.623458v1">10.1101/2024.11.13.623458</a>. </li>
 
@@ -21,12 +21,19 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 </ol>
 
+**2025**
+
+<ol class="publications" reversed start="52">
+
+   <li><small><em>(commentary)</em></small> <u>Skinnider, M.A.</u>, Luck, K., Mukhtar, M.S., Garrido-Rodriguez, M., Saez-Rodriguez, J., van Leeuwen, J., Beltrao, P., Carvunis, A.-R., Taipale, M., Emili, A., Bulyk, M.L., Krogan, N.J. &ldquo;What is the current bottleneck in mapping molecular interaction networks?&rdquo; <em>Cell Systems</em>, <strong>16</strong>, 101295 (2025). <a href="/files/Cell Syst 2025 - What is the current bottleneck in mapping molecular interaction networks?.pdf">[pdf]</a></li>
+
+</ol>
+
 **2024**
 
 <ol class="publications" reversed start="51">
 
-   <li><small><em>(commentary)</em></small> <u>Skinnider, M.A.</u> &ldquo;Hiding in plain sight: a research parasite’s perspective
-on new lessons in old data.&rdquo; <em>GigaScience</em>, <strong>13</strong>, 1&ndash;3 (2024). <a href="/files/GigaScience 2024 - Hiding in plain sight- a research parasite’s perspective on new lessons in old data.pdf">[pdf]</a></li>
+   <li><small><em>(commentary)</em></small> <u>Skinnider, M.A.</u> &ldquo;Hiding in plain sight: a research parasite’s perspective on new lessons in old data.&rdquo; <em>GigaScience</em>, <strong>13</strong>, 1&ndash;3 (2024). <a href="/files/GigaScience 2024 - Hiding in plain sight- a research parasite’s perspective on new lessons in old data.pdf">[pdf]</a></li>
 
    <li>Cho, N.*, Squair, J.W.*, Aureli, V., James, N.D., Bole-Feysot, L., Dewany, I., Hankov, N., Baud, L., Leonhartsberger, A., Sveistyte, K., <u>Skinnider, M.A.</u>, Gautier, M., Laskaratos, A., Galan, K., Goubran, M., Ravier, J., Merlos, F., Batti, L., Pages, S., Berard, N., Intering, N., Varescon, C., Carda, S., Bartholdi, K.A., Hutson, T.H., Kathe, C., Hodara, M., Anderson, M.A., Draganski, B., Demesmaeker, R., Asboth, L., Barraud, Q., Bloch, J., Courtine, G. &ldquo;Hypothalamic deep brain stimulation augments walking after spinal cord injury.&rdquo; <em>Nature Medicine</em>, <strong>30</strong>, 3676&ndash;3686 (2024). <a href="/files/Nat Med 2024 - Hypothalamic deep brain stimulation augments walking after spinal cord injury.pdf">[pdf]</a></li>
 
