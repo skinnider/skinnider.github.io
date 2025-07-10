@@ -25,7 +25,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="53">
 
-   <li><small><em>(perspective)</em></small> <u>Skinnider, M.A.<sup>†</sup>, Courtine, G.<sup>†</sup>, Bloch, J., Squair, J.W.<sup>†</sup> &ldquo;A clinical road map for single-cell omics.&rdquo; <em>Cell</em>, <strong> 188</strong>, 3633&ndash;3647 (2025). <a href="/files/Cell 2025 - A clinical road map for single-cell omics.pdf">[pdf]</a></li>
+   <li><small><em>(perspective)</em></small> <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup>, Bloch, J., Squair, J.W.<sup>†</sup> &ldquo;A clinical road map for single-cell omics.&rdquo; <em>Cell</em>, <strong> 188</strong>, 3633&ndash;3647 (2025). <a href="/files/Cell 2025 - A clinical road map for single-cell omics.pdf">[pdf]</a></li>
 
    <li><small><em>(commentary)</em></small> <u>Skinnider, M.A.</u>, Luck, K., Mukhtar, M.S., Garrido-Rodriguez, M., Saez-Rodriguez, J., van Leeuwen, J., Beltrao, P., Carvunis, A.-R., Taipale, M., Emili, A., Bulyk, M.L., Krogan, N.J. &ldquo;What is the current bottleneck in mapping molecular interaction networks?&rdquo; <em>Cell Systems</em>, <strong>16</strong>, 101295 (2025). <a href="/files/Cell Syst 2025 - What is the current bottleneck in mapping molecular interaction networks?.pdf">[pdf]</a></li>
 
