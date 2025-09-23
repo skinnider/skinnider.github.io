@@ -17,13 +17,13 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
    <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>, Squair, J.W.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v2">10.1101/2024.06.13.598641</a>. </li>
 
-   <li>Soriano, J.E.*, Hudelle, R.*, Mahe, L., Gautier, M., Teo, Y.Y., <u>Skinnider, M.A.</u>, Laskaratos, A., Ceto, S., Kathe, C., Hutson, T., Charbonneau, R., Girgis, F., Casha, S., Rimok, J., Tso, M., Larkin-Kaiser, K., Hankov, N., Gandhi, A.P., Amir, S., Kang, X., Vyza, Y., Martin-Moraud, E., Lacour, S., Demesmaeker, R., Asboth, L., Barraud, Q., Anderson, M.A., Bloch, J., Squair, J.W., Phillips, A.A., Courtine, G. &ldquo;The neuronal architecture of autonomic dysreflexia.&rdquo; <em>bioRxiv</em>, doi: <a href="https://doi.org/10.1101/2024.05.06.592781">10.1101/2024.05.06.592781</a>. </li>
-
 </ol>
 
 **2025**
 
-<ol class="publications" reversed start="53">
+<ol class="publications" reversed start="54">
+
+   <li>Soriano, J.E.*, Hudelle, R.*, Mahe, L., Gautier, M., Teo, Y.Y., <u>Skinnider, M.A.</u>, Laskaratos, A., Ceto, S., Kathe, C., Hutson, T., Charbonneau, R., Girgis, F., Casha, S., Rimok, J., Tso, M., Larkin-Kaiser, K., Hankov, N., Gandhi, A.P., Amir, S., Kang, X., Vyza, Y., Martin-Moraud, E., Lacour, S., Demesmaeker, R., Asboth, L., Barraud, Q., Anderson, M.A., Bloch, J., Squair, J.W., Phillips, A.A., Courtine, G. &ldquo;A neuronal architecture underlying autonomic dysreflexia.&rdquo; <em>Nature</em>, online ahead of print, doi: <a href="https://doi.org/10.1038/s41586-025-09487-w">10.1038/s41586-025-09487-w</a>. <a href="/files/Nature 2025 - A neuronal architecture underlying autonomic dysreflexia - no extended data.pdf">[pdf]</a></li>
 
    <li><small><em>(perspective)</em></small> <u>Skinnider, M.A.</u><sup>†</sup>, Courtine, G.<sup>†</sup>, Bloch, J., Squair, J.W.<sup>†</sup> &ldquo;A clinical road map for single-cell omics.&rdquo; <em>Cell</em>, <strong> 188</strong>, 3633&ndash;3647 (2025). <a href="/files/Cell 2025 - A clinical road map for single-cell omics.pdf">[pdf]</a></li>
 
