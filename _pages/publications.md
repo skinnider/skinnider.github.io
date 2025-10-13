@@ -13,7 +13,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 <ol class="publications" reversed start="57"> 
 
-   <li>Gupta, V., Qiang, H., Chung, H.-H., Herbst, E., <u>Skinnider, M.A. </u><sup>†</sup> &ldquo;Comprehensive curation and harmonization of small molecule MS/MS libraries in Spectraverse.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68e6ac09dfd0d042d180d18b">10.26434/chemrxiv-2025-4pzxn</a>.</li>
+   <li>Gupta, V., Qiang, H., Chung, H.-H., Herbst, E., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Comprehensive curation and harmonization of small molecule MS/MS libraries in Spectraverse.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68e6ac09dfd0d042d180d18b">10.26434/chemrxiv-2025-4pzxn</a>.</li>
 
    <li>Qiang, H.*, Wang, F.*, Lu, W., Xing, X., Kim, H., Merette, S.A.M., Ayres, L.B., Oler, E., AbuSalim, J.E., Roichman, A., Neinast, M., Cordova, R.A., Lee, W.D., Herbst, E., Gupta, V., Neff, S., Hiebert-Giesbrecht, M., Young, A., Gautam, V., Tian, S., Wang, B., Röst, H., Greiner, R., Chen, L., Johnston, C.W., Foster, L.J., Shapiro, A.M., Wishart, D.S., Rabinowitz, J.D., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Language model-guided anticipation and discovery of unknown metabolites.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.11.13.623458v1">10.1101/2024.11.13.623458</a>. </li>
 
