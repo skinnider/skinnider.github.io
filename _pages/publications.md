@@ -11,7 +11,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="57"> 
+<ol class="publications" reversed start="58"> 
 
    <li>Gupta, V., Qiang, H., Chung, H.-H., Herbst, E., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Comprehensive curation and harmonization of small molecule MS/MS libraries in Spectraverse.&rdquo; <em>ChemRxiv</em>, doi: <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68e6ac09dfd0d042d180d18b">10.26434/chemrxiv-2025-4pzxn</a>.</li>
 
@@ -23,7 +23,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **2025**
 
-<ol class="publications" reversed start="54">
+<ol class="publications" reversed start="55">
+
+   <li><small><em>(perspective)</em></small>Squair, J.W., <u>Skinnider, M.A.</u>, Courtine, G. &ldquo;Unbiased discovery of neuronal architectures.&rdquo; <em>Science</em>, <strong>390</strong>, 566&ndash; 568 (2025). <a href="/files/Science 2025 - Unbiased discovery of neuronal architectures.pdf">[pdf]</a></li>
 
    <li>Soriano, J.E.*, Hudelle, R.*, Mahe, L., Gautier, M., Teo, Y.Y., <u>Skinnider, M.A.</u>, Laskaratos, A., Ceto, S., Kathe, C., Hutson, T., Charbonneau, R., Girgis, F., Casha, S., Rimok, J., Tso, M., Larkin-Kaiser, K., Hankov, N., Gandhi, A.P., Amir, S., Kang, X., Vyza, Y., Martin-Moraud, E., Lacour, S., Demesmaeker, R., Asboth, L., Barraud, Q., Anderson, M.A., Bloch, J., Squair, J.W., Phillips, A.A., Courtine, G. &ldquo;A neuronal architecture underlying autonomic dysreflexia.&rdquo; <em>Nature</em>, <strong>646</strong>, 1167&ndash;1177 (2025). <a href="/files/Nature 2025 - A neuronal architecture underlying autonomic dysreflexia - no extended data.pdf">[pdf]</a></li>
 
