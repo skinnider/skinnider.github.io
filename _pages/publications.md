@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="58"> 
+<ol class="publications" reversed start="59"> 
+
+   <li>Macarthur, M.R.*, Raeber, J.*, Lu, W.*, Qiang, H., Schueppert, A., Ayres, L.B., Cordova, R.A., Neinast, M.D., Leiva, E., Pham, V.N., AbuSalim, J.E., Jankowski, C.S.R., Samarah, L.Z., Roichman, A., Peace, C.G., Ivanov, D.G., Renzo, G.L., Oschmann, A.M., Ayroles, J.F., Mitchell, S.J., Xing, X., Olszewski, K., Kim, H., Rabinowitz, J.D.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Mapping the mammalian dark metabolome by in vivo isotope tracing.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.03.31.713900v1">10.64898/2026.03.31.713900</a>. </li>
 
    <li>Teo, Y.Y., Gautier, M., Brock, L., Tsai, J.Y.J., de Coucy, A., Laskaratos, A., Regazzi, N., Barraud, Q., Sofroniew, M.V., Anderson, M.A., Courtine, G.<sup>†</sup>, Squair, J.W.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Identification of perturbation-responsive regions and genes in comparative spatial transcriptomics atlases.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.1101/2024.06.13.598641v2">10.1101/2024.06.13.598641</a>. </li>
 
