@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="59"> 
+<ol class="publications" reversed start="60"> 
+
+   <li>Gupta, V., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Confronting spurious evaluations of computational methods in small molecule mass spectrometry. &rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.05.03.722532v1">10.64898/2026.05.03.722532</a>. </li>
 
    <li>Macarthur, M.R.*, Raeber, J.*, Lu, W.*, Qiang, H., Schueppert, A., Ayres, L.B., Cordova, R.A., Neinast, M.D., Leiva, E., Pham, V.N., AbuSalim, J.E., Jankowski, C.S.R., Samarah, L.Z., Roichman, A., Peace, C.G., Ivanov, D.G., Renzo, G.L., Oschmann, A.M., Ayroles, J.F., Mitchell, S.J., Xing, X., Olszewski, K., Kim, H., Rabinowitz, J.D.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Mapping the mammalian dark metabolome by in vivo isotope tracing.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.03.31.713900v1">10.64898/2026.03.31.713900</a>. </li>
 
