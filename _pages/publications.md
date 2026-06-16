@@ -11,7 +11,9 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
 **preprints**
 
-<ol class="publications" reversed start="60"> 
+<ol class="publications" reversed start="61"> 
+
+   <li>Meijer, D., Williams, S.E., Terlouw, B., Charusanti, P., Kok, L., <u>Skinnider, M.A.</u>, Weber, T., van der Hooft, J.J., Medema, M.A. &ldquo;RetroMol: Parsing a shared encoding from natural products and their biosynthetic gene clusters.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.06.12.731935v1">10.64898/2026.06.12.731935</a>. </li>
 
    <li>Gupta, V., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Confronting spurious evaluations of computational methods in small molecule mass spectrometry. &rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.05.03.722532v1">10.64898/2026.05.03.722532</a>. </li>
 
