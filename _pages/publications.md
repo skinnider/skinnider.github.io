@@ -15,7 +15,7 @@ You can also find these on <a href="https://scholar.google.ca/citations?user=o00
 
    <li>Meijer, D., Williams, S.E., Terlouw, B., Charusanti, P., Kok, L., <u>Skinnider, M.A.</u>, Weber, T., van der Hooft, J.J., Medema, M.A. &ldquo;RetroMol: Parsing a shared encoding from natural products and their biosynthetic gene clusters.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.06.12.731935v1">10.64898/2026.06.12.731935</a>. </li>
 
-   <li>Gupta, V., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Confronting spurious evaluations of computational methods in small molecule mass spectrometry. &rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.05.03.722532v1">10.64898/2026.05.03.722532</a>. </li>
+   <li>Gupta, V., Xu, C., Herbst, E., Wang, F., Wishart, D.S., <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Confronting spurious evaluations of computational methods in small molecule mass spectrometry. &rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.05.03.722532v2">10.64898/2026.05.03.722532</a>. </li>
 
    <li>Macarthur, M.R.*, Raeber, J.*, Lu, W.*, Qiang, H., Schueppert, A., Ayres, L.B., Cordova, R.A., Neinast, M.D., Leiva, E., Pham, V.N., AbuSalim, J.E., Jankowski, C.S.R., Samarah, L.Z., Roichman, A., Peace, C.G., Ivanov, D.G., Renzo, G.L., Oschmann, A.M., Ayroles, J.F., Mitchell, S.J., Xing, X., Olszewski, K., Kim, H., Rabinowitz, J.D.<sup>†</sup>, <u>Skinnider, M.A.</u><sup>†</sup> &ldquo;Mapping the mammalian dark metabolome by in vivo isotope tracing.&rdquo; <em>bioRxiv</em>, doi: <a href="https://www.biorxiv.org/content/10.64898/2026.03.31.713900v1">10.64898/2026.03.31.713900</a>. </li>
 
